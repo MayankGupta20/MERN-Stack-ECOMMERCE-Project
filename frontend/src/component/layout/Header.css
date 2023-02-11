@@ -1,0 +1,14 @@
+.navList {
+  text-decoration: none;
+}
+
+.navList_link {
+  text-decoration: none;
+  color: rgb(114, 93, 93);
+  transition: all 0.1s;
+}
+
+.navList_link :hover {
+  color: tomato;
+  transform: scale(1.01);
+}
